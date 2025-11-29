@@ -27,4 +27,4 @@ This project implements **Linear Regression from scratch** using **NumPy**, with
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Linear-Regression-Scratch.git
+git clone https://github.com/Muneeza4/Linear_Regression_from_scratch.git
